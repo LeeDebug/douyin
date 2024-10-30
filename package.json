@@ -20,7 +20,8 @@
     "lint": "eslint  --fix  . --ext .vue,.js,.ts,.tsx,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
     "format": "prettier --write src/",
     "prepare": "husky",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "server-dist": "http-server dist -a 0.0.0.0 -p 3002"
   },
   "dependencies": {
     "@jambonn/vue-lazyload": "1.0.9",
