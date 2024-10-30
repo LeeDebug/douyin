@@ -83,7 +83,7 @@ npm install
 npm run dev
 ```
 
-Öffnen Sie Ihren Browser und besuchen Sie:<http://127.0.0.1:3000>
+Öffnen Sie Ihren Browser und besuchen Sie:<http://127.0.0.1:3002>
 
 **Hinweis: Sie müssen den Browser in den Mobilmodus schalten, indem Sie zuerst drücken`F12`Um die Konsole aufzurufen, drücken Sie`Ctrl+Shift+M`um eine normale Vorschau anzuzeigen**
 

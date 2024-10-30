@@ -83,7 +83,7 @@ npm install
 npm run dev
 ```
 
-Open your browser and visit:<http://127.0.0.1:3000>
+Open your browser and visit:<http://127.0.0.1:3002>
 
 **注意：需要将浏览器切至手机模式，先按 `F12`To bring up the console, press`Ctrl+Shift+M`to preview normally**
 

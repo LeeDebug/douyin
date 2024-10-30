@@ -83,7 +83,7 @@ npm install
 npm run dev
 ```
 
-Ouvrez votre navigateur et visitez :<http://127.0.0.1:3000>
+Ouvrez votre navigateur et visitez :<http://127.0.0.1:3002>
 
 **Remarque : Vous devez passer le navigateur en mode mobile, appuyez d'abord sur`F12`Pour afficher la console, appuyez sur`Ctrl+Shift+M`pour prévisualiser normalement**
 
