@@ -21,7 +21,7 @@
     "format": "prettier --write src/",
     "prepare": "husky",
     "commit": "git-cz",
-    "server-dist": "vite build && http-server dist -a 0.0.0.0 -p 3002"
+    "server-dist": "vite build && http-server dist -a 0.0.0.0 -p 3003"
   },
   "dependencies": {
     "@jambonn/vue-lazyload": "1.0.9",
